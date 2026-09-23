@@ -1,0 +1,6 @@
+{
+  "name": "Google Merch Store",
+  "description": "The official merchandise store reimagined: shop 1998 Retro apparel, the limited Suit Up for 39 drop, and everyday essentials with 1-click Google Pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
